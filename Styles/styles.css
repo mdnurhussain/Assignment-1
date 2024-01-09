@@ -140,14 +140,54 @@ header {
 
 /* section-3 style */
 .section-3 {
-    
+
     padding: 50px 140px;
     margin-top: 120px;
     text-align: center;
 
 }
 
-.section-3-text {  background-color:#FF0000, #FF000000 ;
-   
+.section-3-text {
+    background-color: #FF0000, #FF000000;
 
+
+}
+
+/* footer section */
+footer {
+    background: #070211;
+    font-family: 'Inter', sans-serif;
+    color: #FFF;
+    width: 1600px;
+    height: 609px;
+    font-size: 24px;
+}
+
+.footer-text {
+
+    display: flex;
+    justify-content: space-between;
+    padding: 120PX 290PX 50PX 140PX;
+
+}
+
+.footer-social {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 1320px;
+
+}
+
+hr {
+    width: 1320px;
+    height: 1px;
+    margin-left: 140px;
+    background: #FFFFFF26;
+}
+
+.footer-down {
+    display: flex;
+    justify-content: space-between;
+    padding: 50PX 290PX 100PX 140PX;
 }
